@@ -1,0 +1,17 @@
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\bin\Debug\Jhn_presensce.exe.config
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\bin\Debug\Jhn_presensce.exe
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\bin\Debug\Jhn_presensce.pdb
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\obj\Debug\Jhn_presensce.csproj.AssemblyReference.cache
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\obj\Debug\Jhn_presensce.csproj.SuggestedBindingRedirects.cache
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\obj\Debug\Jhn_presensce.Form1.resources
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\obj\Debug\Jhn_presensce.Properties.Resources.resources
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\obj\Debug\Jhn_presensce.csproj.GenerateResource.cache
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\obj\Debug\Jhn_presensce.csproj.CoreCompileInputs.cache
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\obj\Debug\Jhn_presensce.exe
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\obj\Debug\Jhn_presensce.pdb
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\bin\Debug\DiscordRPC.dll
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\bin\Debug\Newtonsoft.Json.dll
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\bin\Debug\DiscordRPC.pdb
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\bin\Debug\DiscordRPC.xml
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\bin\Debug\Newtonsoft.Json.xml
+C:\Users\janbo\OneDrive\Pulpit\[IMG]\KOPANIEAFK\Jhn_presensce\Jhn_presensce\obj\Debug\Jhn_presensce.csproj.CopyComplete
